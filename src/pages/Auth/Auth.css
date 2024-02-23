@@ -1,0 +1,20 @@
+.mobilewallpaper{
+    background-image: url("https://images.ctfassets.net/az3stxsro5h5/6AeI9inPfIztzz4eWInpzt/8f995b8f04d39616ea526fe53e0f0f79/9.png?w=873&h=900&q=50&fm=png");
+    animation: changeBg 8s infinite;
+}
+
+@keyframes changeBg{
+
+    0%{
+       background-image: url("https://backlightblog.com/images/2020/10/Instagram-Profile-Pic-Theme-2.jpg");    
+    }
+    25%{
+        background-image: url("https://images.squarespace-cdn.com/content/v1/589627b8d1758ebabec956af/1587064754640-5ZB7493IIN3B81U257PO/How+to+Set+Up+a+Photography+Instagram+Account?format=500w");
+    }
+    50%{
+        background-image: url("https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/48/1480338651-instagram-screenshot.png");
+    }
+    75%{
+        background-image: url("https://www.alphr.com/wp-content/uploads/2022/07/How-to-See-an-Instagram-Screenshot-Notification-3.png");
+    }
+}
